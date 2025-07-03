@@ -30,6 +30,10 @@ NODE_ENV=development
 ### Build the app
 
 ```shell
+cd project-folder
+```
+
+```shell
 npm run build
 ```
 
